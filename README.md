@@ -37,7 +37,7 @@
 如果偷懒不想自己写可以看 [miaospeed对接签名算法(PHP、Python、Rust等)](https://www.msl.la/archives/564/)
 ## 版权与协议
 
-miaospeed 采用 AGPLv3 协议开源，您可以按照 AGPLv3 协议对 miaospeed 进行修改、贡献、分发、乃至商用。但请切记，您必须遵守 AGPLv3 协议下的一切义务，以免发生不必要的法律纠纷。
+miaospeed 采用《MiaoKo、MiaoSpeed 研究与评估许可协议》1.0。软件仅限用于协议规定的研究、教育、开发及经授权的非商业用途；商业或营利性使用须事先取得版权所有者的书面授权。完整条款请参阅 [LICENSE](./LICENSE)。
 
 ### 主要开源依赖公示
 
